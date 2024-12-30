@@ -1,0 +1,9 @@
+keyboard
+mss
+numpy
+opencv_python
+opencv-python-headless
+PyGetWindow
+pywin32
+pyautogui
+colorama
